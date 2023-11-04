@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CU-SIRR-PERMANENCIA-0001", "CU-SIRR-PERMANENCIA-0001\CU-SIRR-PERMANENCIA-0001.vbproj", "{B822E8B3-A28B-4E92-9F7F-B84D5571E932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B822E8B3-A28B-4E92-9F7F-B84D5571E932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B822E8B3-A28B-4E92-9F7F-B84D5571E932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B822E8B3-A28B-4E92-9F7F-B84D5571E932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B822E8B3-A28B-4E92-9F7F-B84D5571E932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991A3236-FDFB-4A54-9C4C-0BEA4431ED64}
+	EndGlobalSection
+EndGlobal

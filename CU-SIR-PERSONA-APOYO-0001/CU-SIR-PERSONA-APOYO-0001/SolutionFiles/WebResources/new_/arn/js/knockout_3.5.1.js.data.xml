@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebResourceId>{5553fb09-21c9-44c8-b2a9-12e2fa180d20}</WebResourceId>
+  <Name>new_/arn/js/knockout_3.5.1.js</Name>
+  <DisplayName>knockout_3.5.1.js</DisplayName>
+  <WebResourceType>3</WebResourceType>
+  <IntroducedVersion>8.1.0.0</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/new_arnjsknockout351js5553FB09-21C9-44C8-B2A9-12E2FA180D20</FileName>
+</WebResource>

@@ -1,0 +1,18 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2017",
+    "rootDir": "./ts",
+    "outDir": "./SolutionFiles/WebResources/new_/arn/js"
+  },
+  "include": [
+    "./ts/**/*",
+    "./Scripts/typings/**/*"
+  ]
+}
+
